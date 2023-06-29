@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SURAJ0632
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning  web devlopemnet 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Front-end developer
+- 🌱 I'm C++ developer
+- Currently learning DSA and frameworks
 - 📫 How to reach me ...thakursuraj7009@gmail.com
 
 <!---
